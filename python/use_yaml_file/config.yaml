@@ -1,0 +1,5 @@
+common:
+    model:
+        arch: gan
+    workers: 3
+    batch_size: 4
